@@ -3,7 +3,7 @@
 Hi! My name is Amir, and I'm junior frontend developer. I live in Kazakhstan, Astana. I'm 16 years old.
 
 
-# What I u
+# What I use.
 
 I have experience working with a variety of frontend technologies including JavaScript, TypeScript, React, Redux, GraphQL, HTML, CSS, and SCSS.
 ## My Experience.
