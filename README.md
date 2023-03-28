@@ -1,3 +1,3 @@
 # rsschool-cv-html
 
-https://amirbaurzhanov.github.io/rsschool-cv/
+https://amirbaurzhanov.github.io/rsschool-cv/index.html
